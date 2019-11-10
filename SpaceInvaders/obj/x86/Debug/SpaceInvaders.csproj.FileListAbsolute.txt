@@ -1,0 +1,8 @@
+C:\Users\kipki\OneDrive\Desktop\Nouveau dossier\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\kipki\OneDrive\Desktop\Nouveau dossier\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\kipki\OneDrive\Desktop\Nouveau dossier\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\Users\kipki\OneDrive\Desktop\Nouveau dossier\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.GameForm.resources
+C:\Users\kipki\OneDrive\Desktop\Nouveau dossier\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\kipki\OneDrive\Desktop\Nouveau dossier\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.GenerateResource.cache
+C:\Users\kipki\OneDrive\Desktop\Nouveau dossier\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\kipki\OneDrive\Desktop\Nouveau dossier\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
